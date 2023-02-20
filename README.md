@@ -1,8 +1,6 @@
 I like git
 Git is great
-папапапапапапа
-rrrrrrrrrr
-rrrrrrrrrrrrrrrrrrrrrrrrr
 
-rrrrrrrrrrrrrrrrrrrrrrrrr
 
+=======
+>>>>>>> parent of 34bc984 (20.02.2023)
